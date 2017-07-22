@@ -1,0 +1,9 @@
+c:\users\рита\documents\visual studio 2013\Projects\Segment\Segment\bin\Debug\Segment.exe.config
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\bin\Debug\Segment.exe
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\bin\Debug\Segment.pdb
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.csprojResolveAssemblyReference.cache
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.Form1.resources
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.Properties.Resources.resources
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.csproj.GenerateResource.Cache
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.exe
+C:\Users\Рита\documents\visual studio 2013\Projects\Segment\Segment\obj\Debug\Segment.pdb
